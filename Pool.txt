@@ -1,0 +1,4 @@
+Greg's 3D Snooker
+
+This is a new version of Greg's 3D Pool (or whatever you may call it) with a few minor qirks removed and generally overhauled. Download is 388 kB.
+
