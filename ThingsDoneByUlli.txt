@@ -1,0 +1,109 @@
+Formatted code
+Ordered Subs/Functions/Properties alphabetically
+Removed GoTo's
+Moved some code to more appropriate places
+Moved title comments inside Subs
+Removed dead variables
+Removed dead Subs/Functions/Properties
+Renamed some variables
+Bug: removed 8Ball from pocket on restart game
+Moved all auxilary file names to constants
+Skip missing auxilary files
+Enlarged pockets
+Introduced a "pocket attractor" to make sinking more realistic
+Reduced bumper elasticity
+Removed friction pysical constant
+Lowered aiming camera
+Moved number of transition frames and aiming elevation to constants
+Replaced all constant references to ball radius by physical constant from class
+Reduced specular on wood
+Moved light to above center of table
+Added ambient lighting
+Played with shadows
+Modified initial ball positions and inaccuracy
+Introduced a bit of randomness into initial cue ball velocity
+Added spin effect on collisions to preserve rotational inertia
+Changed rotation pitch limiting 
+Enabled full screen view and form resizing [and removed a (new) bug in minimizing form]
+Kept rendering active on game end (so resize will work)
+Removed UpdateCamPos-call from UpdateBillards because the camera is not moving then
+Show/hide cursor
+Increased zoom range
+Changed delay loops to use GetTickCount
+Corrected camera transition to stop at zero (not at 1) frames left
+Optimized some code
+Changed time raster to 30 millisecs for slower machines and better collision detection
+Removed 'End' statement in mdlPlay
+Re-colored some balls
+Changed table body color to match top
+Changed table cloth material and bumper color
+Changed power and panel pics color
+Changed 'Shoot' label 
+Played with lblPlayer
+Added some function keys as menu shortcuts
+Made aiming line optional
+Changed device background to match viewport forecolor (to blend in aiming line)
+Made aiming line to start at cueball
+Made shooting power percentage time dependent
+Added keyboard aiming cam movement (Up - Down - Left - Right, PageUp - PageDown, Enter)
+Changed compile options
+Added copyright label
+Added About Box
+----------------------------------------------------
+Added slow motion
+Played with mouse cursor icons
+Modified Camera transition path
+Added more keyboard control
+Removed a few minor quirks and inconsistencies
+Altered time raster
+Added Good Bye sequence
+Added Startup delay
+Changed rotational inertia effect on ball-bumper collisions
+Moved some code to more convenient places
+----------------------------------------------------
+Bound internal master clock to high speed performance counter
+Made master clock self adjusting to speed of CPU and speed of rendering
+Blinking is now controlled by the shooting power timer
+Added Initial loop game stage (idling)
+More and better noises
+More code streamlining
+Re-colored bumpers and some balls
+Bumbers now have a sightly different shape
+Added commercial stamp on cue ball
+Lights off at end of game and back on at (re-)start of game
+Changed shooting power controls
+Decreased roll friction by a few percent
+Fixed game end condition when the cue-ball was sunk instead of the 8-ball
+Fixed the rare case when eight ball pocket selection follows free ball
+Different camera transition algorithm
+Made CamInTransit Public and changed loops waiting while cam is in transit
+Changed cue-ball re-appear when cam is already in place
+Same with 8-ball hole designation
+Added frmFreeze
+Added About Box
+Added frmWinTerm
+Added shoot and sink counters
+Removed all Late Binding
+Cam transit to fixed cam posn is faster now
+Added cam transit on new game
+Moved the spotlight a little off the center
+Increased ball rotational inertia
+Fixed a long standing quirk regarding the camera position and viewing angle 
+                                  with cueball near the center of the table
+Fixed bug with "AndTheWinnerIs"
+Added "Undo last shot" functionality
+----------------------------------------------------
+Added Joystick
+Added Cheat Mode
+Fixed bug when New Game is called while in "Select 8-Hole" state
+----------------------------------------------------
+
+Things still to do:
+Auto aiming (computer's turn)
+Chalk on table border :-)
+
+----------------------------------------------------
+
+Have fun and happy hacking
+
+Ulli

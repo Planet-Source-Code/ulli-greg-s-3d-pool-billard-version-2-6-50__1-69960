@@ -1,0 +1,112 @@
+Key Assignments
+---------------
+   Arrow keys                 Aiming / Tilting
+
+   Page up/down               Zooming
+
+   Home                       Toggle camera
+
+   0 to 9                     Shooting power in steps of 10 (0 = 100)
+
+   U or S                     Increase shooting power
+
+   D                          Decrease shooting power
+
+   Escape                     Reset shooting power
+
+   Space or Enter             Shoot with current power
+
+When About Box is open
+----------------------
+   Escape                     Close box
+
+When Calibrate Box is open
+--------------------------
+   Joystick                   Move Joystick to all four corners and then
+                              press Fire Button #1
+
+When Win Terminate Box is open
+------------------------------
+                              Click 'I will' or press space bar, press F3 
+                              and then shutdown Window again
+
+Menu shortcuts
+--------------
+   F1                         About Box
+
+   F2                         New game
+
+   F3                         Game over
+                              Note: You cannot exit during Freeball placement
+
+   F4                         Toggle camera
+
+   F5                         Mute
+
+   F6, F7, F8                 Sound level low, medium, high
+
+   F9                         Slow Motion
+
+   F10                        Menu access; use Arrow keys to navigate
+                              and Enter to confirm, or Escape to go back
+
+   F11                        Toggle "Full view after Shot"
+
+   F12                        Aiming line on/off
+
+   Del                        Freeze and melt                              
+
+   Backspace                  Undo previous shot (if there was one)
+
+   Ctrl+C                     Cheat Mode on / off
+
+   Ctrl+D                     Send mail to author thru your default mail program
+
+   Ctrl+J                     Use Joystick 
+
+Window Size
+----------
+   Ctrl+M                     Maximized
+   Ctrl+L                     Large
+   Ctrl+E                     Medium
+   Ctrl+S                     Small 
+   Ctrl+N                     Minimum
+   Ctrl+I                     Iconized
+
+Mouse
+-----
+When you see the red crosshairs (inside the viewport):
+   Left down and move         Aiming / Tilting
+   Right down and move        Zooming
+
+
+During the game
+   Shoot Button               The shooting power increases 
+                              while left mouse button is down.
+                              Release button to shoot.
+                              Move the mouse off the Shoot button
+                              to prevent shooting.  
+
+   Shoot Bar                  Click on bar to select percentage 
+                              and release mouse button to shoot. 
+                              You can also move the mouse to alter
+                              shooting power or move off the bar 
+                              to prevent shooting. 
+  
+   Free Ball                  Move the re-appearing cue ball to desired 
+                              position and left-click to release the ball
+
+   Eight Ball                 Click on the hole you're gonna sink 
+                              the 8-ball into
+
+Joystick
+--------
+   Forward / Backward         Shooting power
+
+   Left / Right               Aiming
+
+   Fire Button #1             Shoot
+------------------------------------------------------------------------------------------
+Note:
+
+When the variable internal refresh rate (FpS; frames per second) is close to your screen refresh rate you may notice that the aiming line shows some flicker or even disappears completely. This effect is due to the beat interference between the two frequencies and is an inherent problem with discrete frame displays. You have the same effect in movies for example when the spokes of a wheel seem to stand still or even turn backwards.
